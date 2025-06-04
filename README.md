@@ -1,5 +1,5 @@
 # JavaScript-projects
-Front-end projects that I used HTML, CSS, and JavaScript
+Front-end projects (HTML, CSS, and JavaScript)
 
 - [Building a Palindrome Checker](https://github.com/Pegah1999/Build-a-Palindrome-Checker)
 - [Building a Roman Numeral Converter](https://github.com/Pegah1999/Build-a-Roman-Numeral-Converter)
